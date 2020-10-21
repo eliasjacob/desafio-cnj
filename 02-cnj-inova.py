@@ -329,6 +329,3 @@ else:
 	st.dataframe(dados_relatorio)
 
 	st.markdown(get_table_download_link(dados_relatorio), unsafe_allow_html=True)
-
-
-# PS: pip install xlsxwriter  # pandas need this
