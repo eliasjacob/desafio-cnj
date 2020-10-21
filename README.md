@@ -2,11 +2,11 @@
 
 ## Para executar:
 
-'''
+```
 git clone https://github.com/eliasjacob/desafio-cnj.git
 cd desafio-cnj
 sh executar.sh
-'''
+```
 
 ## Pré-requisitos:
 Python >= 3.7
