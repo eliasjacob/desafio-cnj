@@ -1,4 +1,4 @@
-# desafio-cnj
+# Desafio CNJ - Equipe 22
 
 ## Para executar:
 
