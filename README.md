@@ -8,6 +8,14 @@ git clone https://github.com/eliasjacob/desafio-cnj.git
 ## Para executar 
 ### O usuário deve criar o seu próprio ambiente virtual antes de executar a solução. Recomenda-se utilizar o pacote virtualenv para python
 
+### Para criar um virtualenv e ativá-lo, pode-se utilizar os comandos:
+```
+virtualenv -p python3 venv
+source venv/bin/activate
+```
+
+### Ativado o virtualenv, o usuário deverá executar os comandos abaixo:
+
 ```
 cd desafio-cnj
 sh executar.sh
