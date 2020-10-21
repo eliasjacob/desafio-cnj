@@ -1,0 +1,1 @@
+Dentro da pasta data/ deve ser despejado o conteúdo do arquivo com os dados fornecidos pelo CNJ (descompactado)
